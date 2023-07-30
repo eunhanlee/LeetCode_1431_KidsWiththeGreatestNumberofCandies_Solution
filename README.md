@@ -1,11 +1,7 @@
 # LeetCode 1431. Kids With the Greatest Number of Candies Java Solution
 
-category: Algorithm Solving
-Status: Request Complete
-Tags: Algorithm, LeetCode, Java, Problem Solving, 1431. Kids With the Greatest Number of Candies
-Created time: July 30, 2023 10:35 AM
-Translate Link: LeetCode 1431. Kids With the Greatest Number of Candies 자바 문제 풀이 (https://www.notion.so/LeetCode-1431-Kids-With-the-Greatest-Number-of-Candies-aa65fc5309074a18b6dfa2367e7de78a?pvs=21)
 Hashnode Link: https://eunhanlee.hashnode.dev/leetcode-1431-kids-with-the-greatest-number-of-candies-java-solution
+
 Blogger link: https://eunhanspace.blogspot.com/2023/07/leetcode-1431-kids-with-greatest-number.html
 
 ## Problem
@@ -27,9 +23,9 @@ result.add(candy + extraCandies >= max ? true : false);
 
 ### References
 
-[Java Operator Precedence](https://www.notion.so/Java-Operator-Precedence-b19da3d6abda42d7aa6e10d809eda687?pvs=21) 
+[Java Operator Precedence](https://eunhanspace.blogspot.com/2023/07/java-operator-precedence.html) 
 
-[What is Java Ternary Operator(?:)](https://www.notion.so/What-is-Java-Ternary-Operator-ce52757a41fc45ffa648ebdca4eb61f8?pvs=21) 
+[What is Java Ternary Operator(?:)](https://eunhanspace.blogspot.com/2023/07/what-is-java-ternary-operator.html)
 
 ## Github Link
 
